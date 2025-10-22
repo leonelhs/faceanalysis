@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name='face analysis',
+    name='face_analysis_lite',
     version='0.1.0',
     author='leonel hernandez',
     author_email='leonelhs@gmail.com',
