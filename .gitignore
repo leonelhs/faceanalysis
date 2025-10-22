@@ -1,5 +1,6 @@
 .idea
 face_analysis.egg-info
+face_analysis_lite.egg-info
 build
 dist
 install.sh
